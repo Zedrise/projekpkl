@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\Sarastya\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE33B59-3A53-4D97-BA55-F264D00955D6}|Sarastya\\Sarastya.csproj|c:\\users\\dell\\source\\repos\\sarastya\\sarastya\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BCE33B59-3A53-4D97-BA55-F264D00955D6}|Sarastya\\Sarastya.csproj|solutionrelative:sarastya\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE33B59-3A53-4D97-BA55-F264D00955D6}|Sarastya\\Sarastya.csproj|C:\\Users\\DELL\\source\\repos\\Sarastya\\sarastya\\registrasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BCE33B59-3A53-4D97-BA55-F264D00955D6}|Sarastya\\Sarastya.csproj|solutionrelative:sarastya\\registrasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE33B59-3A53-4D97-BA55-F264D00955D6}|Sarastya\\Sarastya.csproj|c:\\users\\dell\\source\\repos\\sarastya\\sarastya\\sarastya.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{BCE33B59-3A53-4D97-BA55-F264D00955D6}|Sarastya\\Sarastya.csproj|solutionrelative:sarastya\\sarastya.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE33B59-3A53-4D97-BA55-F264D00955D6}|Sarastya\\Sarastya.csproj|C:\\Users\\DELL\\source\\repos\\Sarastya\\sarastya\\editprofil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BCE33B59-3A53-4D97-BA55-F264D00955D6}|Sarastya\\Sarastya.csproj|solutionrelative:sarastya\\editprofil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sarastya",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Sarastya\\Sarastya\\Sarastya.csproj",
+              "RelativeDocumentMoniker": "Sarastya\\Sarastya.csproj",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Sarastya\\Sarastya\\Sarastya.csproj",
+              "RelativeToolTip": "Sarastya\\Sarastya.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-09T12:58:27.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Registrasi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Sarastya\\Sarastya\\Registrasi.cs",
+              "RelativeDocumentMoniker": "Sarastya\\Registrasi.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Sarastya\\Sarastya\\Registrasi.cs [Design]",
+              "RelativeToolTip": "Sarastya\\Registrasi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T12:23:25.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Sarastya\\Sarastya\\Form1.cs",
+              "RelativeDocumentMoniker": "Sarastya\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Sarastya\\Sarastya\\Form1.cs [Design]",
+              "RelativeToolTip": "Sarastya\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T12:23:21.085Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditProfil.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Sarastya\\Sarastya\\EditProfil.cs",
+              "RelativeDocumentMoniker": "Sarastya\\EditProfil.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Sarastya\\Sarastya\\EditProfil.cs [Design]",
+              "RelativeToolTip": "Sarastya\\EditProfil.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T12:21:48.533Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
